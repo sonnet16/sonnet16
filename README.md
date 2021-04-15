@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...fullstack Web application
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ..anything i am trying to help you.
-- 📫 How to reach me: ... 01791821795
+- 📫 How to reach me: ... shaharuk.ahmad.cse@gmail.com
