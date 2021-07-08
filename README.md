@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
-
+My Name Shaharuk Ahamad. I am student of Daffodil International University.
 - 🔭 I’m currently working on React.Js, Python, Django
 - 🌱 I’m currently learning ...Redux
 - 👯 I’m looking to collaborate on ...fullstack Web application
