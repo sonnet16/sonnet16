@@ -6,3 +6,4 @@ My Name Shaharuk Ahamad. I am currently working as an employee at Infocrat Solut
 - 🤔 I’m looking for opportunities to grow my knowledge ...
 - 💬 Ask me about ..anything i am trying to help you.
 - 📫 How to reach me: ... shaharuk.ahmad.cse@gmail.com
+- ⚡ Fun fact: I love to travel and eat
